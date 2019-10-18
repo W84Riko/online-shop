@@ -54,5 +54,19 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Chevrolet Cruze",
+        "image": "chevrolet-cruze.jpg",
+        "description": "Cool car",
+        "price": 100000.01
+    },
+    {
+        "id": "10",
+        "title": "Landrover Bulgaria",
+        "image": "landrover-bulgaria.jpg",
+        "description": "Classic model",
+        "price": 123456.78
     }
 ]
